@@ -1,0 +1,1 @@
+<!-- <div id="name_avail_resposnse" class="col-12" style="display: none;"></div> -->
